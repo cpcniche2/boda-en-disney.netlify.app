@@ -5,13 +5,17 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: https://boda-en-disney-board.netlify.app/
 baseurl: https://boda-en-disney-board.netlify.app
-permalink: date
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
+collections:
+  my_collection:
+    output: true
+    permalink: /:collection/:title/
+
 include: ["_pages"]
-permalink: /:title/
+#permalink: /:title/
 
 # Plugins
 plugins: 
