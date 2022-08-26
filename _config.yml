@@ -4,7 +4,7 @@ description: 'Mundana is a free Jekyll theme for awesome people like you, Medium
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: https://boda-en-disney-board.netlify.app/
-baseurl: /
+baseurl: https://boda-en-disney-board.netlify.app
 permalink: date
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
