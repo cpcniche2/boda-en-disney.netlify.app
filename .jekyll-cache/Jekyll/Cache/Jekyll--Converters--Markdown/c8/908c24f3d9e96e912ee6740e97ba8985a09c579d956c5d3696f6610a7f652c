@@ -1,0 +1,149 @@
+I"�<div class="container">
+    
+ <!--endif page url is / -->
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/mundana-theme-jekyll/boda-disney-ideas/">+10 Boda Disney Ideas 2022</a>
+	</h2>
+	<p class="excerpt">
+	       +10 Boda Disney Ideas 2022. Ver más ideas sobre boda disney, boda, bodas disney. When autocomplete results are available use up and down arrows to review and enter to select.     ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/mundana-theme-jekyll/categories.html#boda en disney">boda en disney</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 06, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/mundana-theme-jekyll/boda-disney-ideas/">
+	<img class="w-100" src="https://i2.wp.com/cdn0.bodas.com.mx/usr/9/7/5/8/cfb_1244785.jpg" alt="+10 Boda Disney Ideas 2022" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/mundana-theme-jekyll/alfileres-de-boda-disney/">The Best Alfileres De Boda Disney References</a>
+	</h2>
+	<p class="excerpt">
+	       The Best Alfileres De Boda Disney References. 856 08 33 33 eur € eur € favoritos. 644 73 00 09 whatsapp.                                                    Fotografía de bodas Dis...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/mundana-theme-jekyll/categories.html#boda en disney">boda en disney</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 25, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/mundana-theme-jekyll/alfileres-de-boda-disney/">
+	<img class="w-100" src="https://i.pinimg.com/originals/f1/09/7d/f1097dea0543d5031c04cdb925ea116d.jpg" alt="The Best Alfileres De Boda Disney References" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/mundana-theme-jekyll/welcome-to-jekyll/">Welcome to Jekyll!</a>
+	</h2>
+	<p class="excerpt">
+	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/mundana-theme-jekyll/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 04, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/mundana-theme-jekyll/welcome-to-jekyll/">
+	<img class="w-100" src="/mundana-theme-jekyll/assets/images/demo1.jpg" alt="Welcome to Jekyll!" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item"><a class="page-link" href="/mundana-theme-jekyll/">&laquo; Prev</a></li>
+              
+
+              
+                
+                <li class="page-item"><a class="page-link" href="/mundana-theme-jekyll/">1</a></li>
+                
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">2</span></li>
+                
+              
+
+              
+                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+              
+            </ul>
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+           
+    </ol>
+</div>     
+    </div>
+    
+</div>
+
+
+
+</div>
+:ET
