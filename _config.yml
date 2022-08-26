@@ -53,6 +53,8 @@ defaults:
       layout: page
       
 # Syntax
+kramdown:
+    auto_ids: true
 markdown: kramdown
 highlighter: rouge
 
